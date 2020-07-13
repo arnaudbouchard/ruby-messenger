@@ -5,3 +5,6 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+message1 = Message.create(author: "Arnaud", recipient: "Olivier", visibility: "private", text: "Hey mate")
+message1 = Message.create(author: "Olivier", recipient: "Arnaud", visibility: "private", text: "Hey how are you?")
