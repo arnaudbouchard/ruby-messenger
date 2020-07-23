@@ -49,4 +49,4 @@ mutation {
 ```
 
 ## Run tests
-```ruby -Itest```
+```ruby -Itest test/models/message_test.rb```
