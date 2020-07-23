@@ -47,3 +47,6 @@ mutation {
   }
 }
 ```
+
+## Run tests
+```ruby -Itest```
